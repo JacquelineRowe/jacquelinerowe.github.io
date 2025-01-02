@@ -436,7 +436,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/jacqueline-rowe-a96297180/", "_blank");
+          window.open("https://www.linkedin.com/in/jacqueline-rowe-a96297180/", "_blank");
         },
       },{
       id: 'light-theme',
