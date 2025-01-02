@@ -1,5 +1,7 @@
+---
 layout: default
 title: "CV"
+nav: true
 ---
 
 # View PDF
