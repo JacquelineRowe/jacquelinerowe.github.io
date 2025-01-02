@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='https://www.responsiblenlp.org/'>Designing Responsible Natural Language Processing</a>, University of Edinburgh
+subtitle: PhD Student
+<a href='https://www.responsiblenlp.org/'>Designing Responsible Natural Language Processing</a>, 
+University of Edinburgh
 
 profile:
   align: left
