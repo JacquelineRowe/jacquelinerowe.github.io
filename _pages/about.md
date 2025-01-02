@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, University of Edinburgh
+subtitle: School of Informatics, University of Edinburgh
 
 profile:
   align: left
