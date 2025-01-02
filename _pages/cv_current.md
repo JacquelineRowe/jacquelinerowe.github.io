@@ -2,7 +2,7 @@
 layout: default
 title: CV
 nav: true
-permalink: /cv/
+permalink: /cv_current/
 nav_order: 2
 ---
 
