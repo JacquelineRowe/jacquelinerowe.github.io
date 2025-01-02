@@ -495,6 +495,13 @@ ninja.data = [{
           window.open("mailto:%6A%61%63%71%75%65%6C%69%6E%65.%72%6F%77%65@%65%64%69%6E%62%75%72%67%68.%61%63.%75%6B", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/jacqueline-rowe-a96297180/", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
