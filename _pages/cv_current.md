@@ -14,5 +14,3 @@ nav: true
 </iframe>
 
 ---
-
-If the PDF does not display properly, [click here to download the file](path/to/your/file.pdf)
