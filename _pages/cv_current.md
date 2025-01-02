@@ -6,7 +6,7 @@ permalink: /cv_current/
 nav_order: 2
 ---
 
-# View PDF
+Curriculum Vitae
   
 <iframe 
   src="/assets/pdf/CV_current.pdf" 
