@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "CV"
+title: CV
 nav: true
+permalink: /cv/
+nav_order: 2
 ---
 
 # View PDF
