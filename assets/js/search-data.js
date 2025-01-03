@@ -30,7 +30,62 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/commentary/index.html";
           },
-        },{id: "post-what-would-a-human-rights-based-approach-to-ai-governance-look-like",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2025/2023-06-06-rightscon/";
+        
+      },
+    },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2025/2022-07-14-DMA-interoperability/";
+        
+      },
+    },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2025/2022-03-24-OGR-marg-lang/";
+        
+      },
+    },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2025/2020-11-02-TWT/";
+        
+      },
+    },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
+      
+        title: "Defending Voice and Expression in Africa and the Middle East",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2024/IGF-24/";
+        
+      },
+    },{id: "post-what-would-a-human-rights-based-approach-to-ai-governance-look-like",
       
         title: "What would a human rights-based approach to AI governance look like?",
       
@@ -50,6 +105,50 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2023/OGR_shutdowns/";
+        
+      },
+    },{id: "post-do-diverging-platform-regulations-risk-an-open-internet-video",
+      
+        title: "Do Diverging Platform Regulations Risk an Open Internet? [Video]",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2022/IGF-22/";
+        
+      },
+    },{id: "post-how-will-the-digital-markets-act-affect-human-rights-four-likely-impacts",
+      
+        title: "How will the Digital Markets Act affect human rights? Four likely impacts",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2022/DMA-HR/";
+        
+      },
+    },{id: "post-marginalised-languages-and-the-content-moderation-challenge",
+      
+        title: "Marginalised languages and the content moderation challenge",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2022/marglangsGPD/";
+        
+      },
+    },{id: "post-why-the-next-generation-is-key-to-protecting-human-rights",
+      
+        title: "Why the next generation is key to protecting human rights",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2021/nextgen/";
         
       },
     },{id: "news-a-simple-inline-announcement",
