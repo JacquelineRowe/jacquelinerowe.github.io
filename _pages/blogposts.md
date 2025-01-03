@@ -1,20 +1,20 @@
 ---
 layout: page
-permalink: /blogposts/
-title: blogposts
-description: 
+permalink: /commentary/
+title: Commentary
+description: Short-form content and talks 
 nav: true
 nav_order: 4
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/commentary.md -->
 
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="blogposts">
 
-{% bibliography %}
+{% bibliography --config blogposts_scholar %}
 
 </div>
