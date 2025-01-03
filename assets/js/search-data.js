@@ -25,6 +25,13 @@ ninja.data = [{
           },
         },{id: "nav-commentary",
           title: "Commentary",
+          description: "Blogposts, talks and more",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/commentary/";
+          },
+        },{id: "nav-commentary",
+          title: "Commentary",
           description: "",
           section: "Navigation",
           handler: () => {
