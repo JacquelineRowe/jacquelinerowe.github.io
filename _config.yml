@@ -120,13 +120,13 @@ related_blog_posts:
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: Global Partners Digital
-    posts: 
-      - url: https://www.gp-digital.org/what-would-a-human-rights-based-approach-to-ai-governance-look-like/
-  - name: Open Global Rights
-    posts:
-      - url: https://www.openglobalrights.org/weaponizing-internet-shutdowns-evade-accountability-rights-violations/
+# external_sources:
+#   - name: Global Partners Digital
+#     posts: 
+#      - url: https://www.gp-digital.org/what-would-a-human-rights-based-approach-to-ai-governance-look-like/
+#  - name: Open Global Rights
+#    posts:
+#      - url: https://www.openglobalrights.org/weaponizing-internet-shutdowns-evade-accountability-rights-violations/
 
 # -----------------------------------------------------------------------------
 # Newsletter
