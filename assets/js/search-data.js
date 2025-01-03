@@ -52,17 +52,6 @@ ninja.data = [{
           window.location.href = "/commentary/2025/2022-07-14-DMA-interoperability/";
         
       },
-    },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2025/2022-03-24-OGR-marg-lang/";
-        
-      },
     },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
       
         title: "Defending Voice and Expression in Africa and the Middle East",
@@ -116,6 +105,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2022/DMA-HR/";
+        
+      },
+    },{id: "post-a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world",
+      
+        title: "A language of no importance: the consequences of neglecting marginalized languages in the...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2022/OGR-marg-lang/";
         
       },
     },{id: "post-marginalised-languages-and-the-content-moderation-challenge",
