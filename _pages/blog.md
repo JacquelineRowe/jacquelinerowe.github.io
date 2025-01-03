@@ -73,7 +73,13 @@ pagination:
 <div class="float-right">
 <i class="fa-solid fa-thumbtack fa-xs"></i>
 </div>
-<h3 class="card-title text-lowercase">{{ post.title }}</h3>
+<h3>
+  {% if post.url %}
+    <a class="post-title" href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+  {% else %}
+    class="card-title text-lowercase">{{ post.title }}
+  {% endif %}
+</h3>
 <p class="card-text">{{ post.description }}</p>
 
                     {% if post.external_source == blank %}
@@ -144,7 +150,13 @@ pagination:
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
+          &nbsp; &middot; &nbsp; {{ post.external_source }}
+        {% endif %}
+        {% if post.authors %}
+          &nbsp; &middot; &nbsp; Authors: 
+          {% for author in post.authors %}
+            {{ author }}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
         {% endif %}
       </p>
       <p class="post-tags">
