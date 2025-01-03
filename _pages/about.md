@@ -16,5 +16,5 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD Student in the UKRI-funded <a href='https://www.responsiblenlp.org/'> CDT in Designing Responsible Natural Language Processing</a> at the University of Edinburgh (2024-2028), supervised by Alexandra Birch and Shannon Vallor. With a background in Linguistics, Human Rights Law and Computer Science, I'm interested in how to design NLP tools to be safer, fairer and more equitable for speakers of minority languages. 
 
-Interested in multilingual bias detection in LLMs, hate speech detection for low-resource languages, low-resource machine translation and linguistic equity in NLP research and technologies 
+Current research interests include multilingual bias detection in LLMs, hate speech detection for low-resource languages, low-resource machine translation and linguistic equity in NLP research and technologies 
 
