@@ -265,7 +265,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["AI governance", "internet shutdowns", "platform regulation"] # these tags will be displayed on the front page of your blog
+display_tags: ["AI governance", "internet shutdowns", "platform regulation", "marginalised languages"] # these tags will be displayed on the front page of your blog
 display_categories: ["blogposts", "talks", "other"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
