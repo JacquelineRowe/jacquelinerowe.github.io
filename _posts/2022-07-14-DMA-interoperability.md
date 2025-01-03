@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The EU Digital Markets Act: is interoperability the way forward?
+title: "The EU Digital Markets Act: is interoperability the way forward?"
 authors: Jacqueline Rowe
 publisher: Global Partners Digital
 date: 2022-07-14
