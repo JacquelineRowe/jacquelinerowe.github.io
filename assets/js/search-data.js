@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/commentary/index.html";
           },
-        },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2025/2022-12-02-IGF-22/";
+        
+      },
+    },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
       
         title: "Defending Voice and Expression in Africa and the Middle East",
       
@@ -72,17 +83,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2023/rightscon/";
-        
-      },
-    },{id: "post-do-diverging-platform-regulations-risk-an-open-internet-video",
-      
-        title: "Do Diverging Platform Regulations Risk an Open Internet? [Video]",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2022/IGF-22/";
         
       },
     },{id: "post-the-eu-digital-markets-act-is-interoperability-the-way-forward",
