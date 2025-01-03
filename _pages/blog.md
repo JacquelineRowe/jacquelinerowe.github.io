@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /commentary/
-title: Commentary
+title: commentary
 nav: true
 nav_order: 4
 pagination:
