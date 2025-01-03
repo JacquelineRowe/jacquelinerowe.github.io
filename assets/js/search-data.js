@@ -63,17 +63,6 @@ ninja.data = [{
           window.location.href = "/commentary/2025/2022-03-24-OGR-marg-lang/";
         
       },
-    },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2025/2020-06-29-GB-languages/";
-        
-      },
     },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
       
         title: "Defending Voice and Expression in Africa and the Middle East",
@@ -160,6 +149,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2020/TWT/";
+        
+      },
+    },{id: "post-language-practices-and-policies-in-a-post-colonial-setting-the-case-of-guinea-bissau",
+      
+        title: "Language Practices and Policies in a Post-Colonial Setting: The Case of Guinea-Bissau",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2020/GB-languages/";
         
       },
     },{id: "news-a-simple-inline-announcement",
