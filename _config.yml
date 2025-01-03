@@ -297,30 +297,6 @@ scholar:
   group_by: year
   group_order: descending
 
-blogposts_scholar:
-  last_name: [Rowe]
-  first_name: [Jacqueline]
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: blogposts.bib
-  bibliography_template: bib
-
-  bibtex_filters: [latex, smallcaps, superscript]
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: blogposts
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
-
-
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
