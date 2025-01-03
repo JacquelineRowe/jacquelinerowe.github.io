@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/commentary/2024/IGF-24/";
         
       },
+    },{id: "post-poster-approaching-the-english-nlp-singularity-is-it-too-late-for-low-resource-languages",
+      
+        title: "Poster: Approaching the English NLP singularity: is it too late for low-resource languages?...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2024/poster/";
+        
+      },
     },{id: "post-what-would-a-human-rights-based-approach-to-ai-governance-look-like",
       
         title: "What would a human rights-based approach to AI governance look like?",
