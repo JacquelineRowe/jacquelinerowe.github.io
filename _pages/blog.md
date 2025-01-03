@@ -146,7 +146,6 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
           &nbsp; &middot; &nbsp; {{ post.external_source }}
@@ -156,6 +155,9 @@ pagination:
           {% for author in post.authors %}
             {{ author }}{% unless forloop.last %}, {% endunless %}
           {% endfor %}
+        {% endif %}
+        {% if post.publisher %}
+          &nbsp; &middot; &nbsp; Publisher: {{ post.publisher }}
         {% endif %}
       </p>
       <p class="post-tags">
