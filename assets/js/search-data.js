@@ -71,7 +71,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/commentary/2025/2020-11-02-TWT/";
+          window.location.href = "/commentary/2025/2020-06-29-GB-languages/";
         
       },
     },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
@@ -149,6 +149,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2021/nextgen/";
+        
+      },
+    },{id: "post-filtering-out-malicious-lies-how-digital-platforms-can-tackle-disinformation",
+      
+        title: "Filtering out malicious lies: how digital platforms can tackle disinformation",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2020/TWT/";
         
       },
     },{id: "news-a-simple-inline-announcement",
