@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/commentary/index.html";
           },
-        },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
+        },{id: "post-panel-discussion-defending-voice-and-expression-in-africa-and-the-middle-east",
       
-        title: "Defending Voice and Expression in Africa and the Middle East",
+        title: "Panel Discussion: Defending Voice and Expression in Africa and the Middle East",
       
       description: "",
       section: "Posts",
