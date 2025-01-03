@@ -142,7 +142,7 @@ ninja.data = [{
       },
     },{id: "post-filtering-out-malicious-lies-how-digital-platforms-can-tackle-disinformation",
       
-        title: "Filtering out malicious lies - how digital platforms can tackle disinformation",
+        title: "Filtering out malicious lies: how digital platforms can tackle disinformation",
       
       description: "",
       section: "Posts",
