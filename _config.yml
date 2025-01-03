@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Commentary # blog_name will be displayed in your blog page
-blog_description: Short-form commentary and talks
+blog_name: commentary # blog_name will be displayed in your blog page
+blog_description: short-form commentary and talks
 permalink: /commentary/:year/:title/
 lsi: false # produce an index for related posts
 
