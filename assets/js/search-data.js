@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/commentary/index.html";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2025/2023-06-06-rightscon/";
-        
-      },
-    },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
+        },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
       
         title: "Defending Voice and Expression in Africa and the Middle East",
       
@@ -72,6 +61,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2023/OGR_shutdowns/";
+        
+      },
+    },{id: "post-internet-shutdowns-39-covering-up-39-human-rights-violations-trends-in-africa-and-the-middle-east",
+      
+        title: "Internet shutdowns &#39;covering up&#39; human rights violations: Trends in Africa and the Middle...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2023/rightscon/";
         
       },
     },{id: "post-do-diverging-platform-regulations-risk-an-open-internet-video",
