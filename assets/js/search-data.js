@@ -162,6 +162,17 @@ ninja.data = [{
           window.location.href = "/commentary/2023/tikzjax/";
         
       },
+    },{id: "post-what-would-a-human-rights-based-approach-to-ai-governance-look-like",
+      
+        title: "What would a human rights-based approach to AI governance look like?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2023/humanrights_AIgov/";
+        
+      },
     },{id: "post-a-post-with-bibliography",
       
         title: "a post with bibliography",
