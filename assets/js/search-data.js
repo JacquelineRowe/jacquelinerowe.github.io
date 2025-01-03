@@ -41,17 +41,6 @@ ninja.data = [{
           window.location.href = "/commentary/2025/2023-06-06-rightscon/";
         
       },
-    },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2025/2022-07-14-DMA-interoperability/";
-        
-      },
     },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
       
         title: "Defending Voice and Expression in Africa and the Middle East",
@@ -94,6 +83,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2022/IGF-22/";
+        
+      },
+    },{id: "post-the-eu-digital-markets-act-is-interoperability-the-way-forward",
+      
+        title: "The EU Digital Markets Act: is interoperability the way forward?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2022/DMA-interoperability/";
         
       },
     },{id: "post-how-will-the-digital-markets-act-affect-human-rights-four-likely-impacts",
