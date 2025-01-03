@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/commentary/2023/humanrights_AIgov/";
         
       },
+    },{id: "post-weaponizing-internet-shutdowns-to-evade-accountability-for-rights-violations",
+      
+        title: "Weaponizing internet shutdowns to evade accountability for rights violations",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2023/OGR_shutdowns/";
+        
+      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
