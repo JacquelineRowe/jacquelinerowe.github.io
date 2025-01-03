@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Language Practices and Policies in a Post-Colonial Setting: The Case of Guinea-Bissau
+title: "Language Practices and Policies in a Post-Colonial Setting: The Case of Guinea-Bissau"
 authors: Jacqueline Rowe
 publisher: Cambridge Language Sciences
 date: 2020-06-29
