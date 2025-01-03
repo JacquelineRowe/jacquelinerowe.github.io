@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Internet shutdowns 'covering up' human rights violations: Trends in Africa and the Middle East"
-authors: Panel Event
+title: "Panel Discussion: Internet shutdowns 'covering up' human rights violations: Trends in Africa and the Middle East"
+authors: 
 publisher: RightsCon 2023
 date: 2023-06-06
 description: 
