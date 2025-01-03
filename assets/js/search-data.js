@@ -85,9 +85,9 @@ ninja.data = [{
           window.location.href = "/commentary/2023/rightscon/";
         
       },
-    },{id: "post-panel-event-mind-the-language-gap-nlp-researchers-amp-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages",
+    },{id: "post-panel-discussion-mind-the-language-gap-nlp-researchers-amp-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages",
       
-        title: "Panel Event: Mind the Language Gap: NLP Researchers &amp; Advocates Weigh in on...",
+        title: "Panel Discussion: Mind the Language Gap: NLP Researchers &amp; Advocates Weigh in on...",
       
       description: "",
       section: "Posts",
