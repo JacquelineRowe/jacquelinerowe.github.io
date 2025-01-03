@@ -85,6 +85,17 @@ ninja.data = [{
           window.location.href = "/commentary/2023/rightscon/";
         
       },
+    },{id: "post-panel-event-mind-the-language-gap-nlp-researchers-amp-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages",
+      
+        title: "Panel Event: Mind the Language Gap: NLP Researchers &amp; Advocates Weigh in on...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2023/CDT-event/";
+        
+      },
     },{id: "post-panel-discussion-do-diverging-platform-regulations-risk-an-open-internet",
       
         title: "Panel Discussion: Do Diverging Platform Regulations Risk an Open Internet?",
