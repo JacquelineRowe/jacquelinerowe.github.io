@@ -63,17 +63,6 @@ ninja.data = [{
           window.location.href = "/commentary/2025/2022-03-24-OGR-marg-lang/";
         
       },
-    },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2025/2020-11-02-TWT/";
-        
-      },
     },{id: "post-defending-voice-and-expression-in-africa-and-the-middle-east",
       
         title: "Defending Voice and Expression in Africa and the Middle East",
@@ -149,6 +138,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2021/nextgen/";
+        
+      },
+    },{id: "post-filtering-out-malicious-lies-how-digital-platforms-can-tackle-disinformation",
+      
+        title: "Filtering out malicious lies - how digital platforms can tackle disinformation",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/commentary/2020/TWT/";
         
       },
     },{id: "news-a-simple-inline-announcement",
