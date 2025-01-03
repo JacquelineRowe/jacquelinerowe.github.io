@@ -108,7 +108,7 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        {{ post.author }} &nbsp; &middot; &nbsp;
+        {{ post.authors }} &nbsp; &middot; &nbsp;
         {{ post.publisher }} &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
