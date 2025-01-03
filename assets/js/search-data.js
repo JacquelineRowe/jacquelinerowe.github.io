@@ -63,9 +63,9 @@ ninja.data = [{
           window.location.href = "/commentary/2023/OGR_shutdowns/";
         
       },
-    },{id: "post-internet-shutdowns-39-covering-up-39-human-rights-violations-trends-in-africa-and-the-middle-east",
+    },{id: "post-panel-discussion-internet-shutdowns-39-covering-up-39-human-rights-violations-trends-in-africa-and-the-middle-east",
       
-        title: "Internet shutdowns &#39;covering up&#39; human rights violations: Trends in Africa and the Middle...",
+        title: "Panel Discussion: Internet shutdowns &#39;covering up&#39; human rights violations: Trends in Africa and...",
       
       description: "",
       section: "Posts",
