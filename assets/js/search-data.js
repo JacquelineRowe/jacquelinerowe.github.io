@@ -255,6 +255,13 @@ ninja.data = [{
           window.open("mailto:%6A%61%63%71%75%65%6C%69%6E%65.%72%6F%77%65@%65%64%69%6E%62%75%72%67%68.%61%63.%75%6B", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/https://github.com/JacquelineRowe", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
