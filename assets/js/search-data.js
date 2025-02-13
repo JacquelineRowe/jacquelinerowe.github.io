@@ -259,7 +259,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/JacquelineRowe", "_blank");
+          window.open("https://github.com/JacquelineRowe", "_blank");
         },
       },{
         id: 'social-linkedin',
