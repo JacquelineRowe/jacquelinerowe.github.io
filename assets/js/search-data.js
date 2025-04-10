@@ -184,16 +184,16 @@ ninja.data = [{
           window.location.href = "/commentary/2020/GB-languages/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-machine-translation-for-guinea-bissau-creole-has-been-accepted-to-the-eighth-workshop-on-technologies-for-machine-translation-of-low-resource-languages-loresmt-2025-https-sites-google-com-view-loresmt-to-be-held-at-naacl-in-new-mexico-on-saturday-3rd-may-read-it-on-arxiv-https-arxiv-org-abs-2504-02674",
+          title: 'Our paper on Machine Translation for Guinea-Bissau Creole has been accepted to The...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
