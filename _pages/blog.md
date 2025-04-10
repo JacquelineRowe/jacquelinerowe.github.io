@@ -23,6 +23,7 @@ pagination:
 ## **2024**
 ---
 - **April**: "[The 2024 BCS Women Ada Lovelace Colloquium](https://www.sheffield.ac.uk/cs/postgraduate/student-profiles/jacquie)"
+  
   Blogpost published by the University of Sheffield
 
 ---
