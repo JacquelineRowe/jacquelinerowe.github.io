@@ -14,7 +14,7 @@ nav_order: 2
 - **January**: [Institute for Language, Cognition and Communication Lightning Talks](https://jacquelinerowe.github.io/assets/img/mybackground.pdf)  
   Brief presentation on research background and interests to Edinburgh's ILCC community
 
-- **February**: "[Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection]"(https://jacquelinerowe.github.io/assets/img/texne_pres-1.pdf)
+- **February**: "[Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection](https://jacquelinerowe.github.io/assets/img/texne_pres-1.pdf)"
   Pedagogy talk at [MIT TexneCon 2025](https://philevents.org/event/show/126054) together with Amanda Horzyk
 
   
