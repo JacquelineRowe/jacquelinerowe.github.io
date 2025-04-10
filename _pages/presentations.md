@@ -20,6 +20,8 @@ nav_order: 2
 - **April**: "Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole"
   Pre-recorded video for paper at The Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025)
 
+- **April**: AI for all Public Engagement Event  
+  Poster and interactive exhibit at [AI for all: Designing Responsibly](https://www.edinburghscience.co.uk/event/ai-for-all-designing-responsibly/), part of the Edinburgh Science Festival programme   
   
 ---
 ## **2024**
