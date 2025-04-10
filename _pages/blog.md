@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /commentary/
 title: commentary
 nav: true
