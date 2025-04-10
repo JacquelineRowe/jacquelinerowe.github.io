@@ -3,7 +3,7 @@ layout: default
 permalink: /commentary/
 title: commentary
 nav: true
-nav_order: 4
+nav_order: 3
 pagination:
   enabled: true
   collection: posts
