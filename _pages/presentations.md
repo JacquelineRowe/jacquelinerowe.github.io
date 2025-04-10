@@ -13,9 +13,9 @@ nav_order: 2
 
 - **"AI for Social Good"**  
   Invited talk at NeurIPS Workshop on Ethics in AI, Dec 2024, Vancouver, Canada
+---
+- ** Do Diverging Platform Regulations Risk an Open Internet? **
+  Participated in a panel convened by Chatham House's Digital Society Initiative at the United Nations Internet Governance Forum in Addis Ababa, December 2022. Watch the recording [here](https://youtu.be/CRY9_P_qkdU?feature=shared&t=1432)
+---
 
-- **"Human-Centered Machine Learning"**  
-  Keynote at ACM CHI 2025, May 2025, Honolulu, Hawaii
 
-- **"Data Narratives and Algorithmic Accountability"**  
-  Guest Lecture, Oxford Internet Institute, March 2025
