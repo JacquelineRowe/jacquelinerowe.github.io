@@ -17,26 +17,29 @@ nav_order: 2
 - **February**: "[Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection](https://jacquelinerowe.github.io/assets/img/texne_pres-1.pdf)"
   Pedagogy talk at [MIT TexneCon 2025](https://philevents.org/event/show/126054) together with Amanda Horzyk
 
+- **April**: "Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole"
+  Pre-recorded video for paper at The Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025)
+
   
 ---
 ## **2024**
 ---
 
-- **December**: "[Defending Voice and Expression in Africa and the Middle East](https://igf2024.sched.com/event/1sYeR/ws-181-defending-voice-expression-in-africa-and-the-middle-east)"  
-  Invited panellist with Global Partners Digital and Meta's AMET Stakeholder Engagement Team, speaking on cybercrime legislation and freedom of expression  at United Nations Internet Governance Forum, Riyadh, Saudi Arabia (participated virtually). 
-
 - **April**: "[Approaching the English NLP singularity: is it too late for low-resource languages?](https://jacquelinerowe.github.io/assets/img/BCS_colloquium_poster.pdf)"  
   Poster presentation at the BCS Women Ada Lovelace Colloquim, Liverpool, UK (won [2nd prize](https://x.com/bcs_lovelace/status/1775922009718804675?lang=en) in the Masters' students category 🏆)
+
+- **December**: "[Defending Voice and Expression in Africa and the Middle East](https://igf2024.sched.com/event/1sYeR/ws-181-defending-voice-expression-in-africa-and-the-middle-east)"  
+  Invited panellist with Global Partners Digital and Meta's AMET Stakeholder Engagement Team, speaking on cybercrime legislation and freedom of expression  at United Nations Internet Governance Forum, Riyadh, Saudi Arabia (participated virtually). 
 
 ---
 ## **2023**
 ---
 
+- **May:** "[Mind the Language Gap: NLP Researchers & Advocates Weigh in on Automated Content Analysis in Non-English Languages](https://cdt.org/insights/mind-the-language-gap-nlp-researchers-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages/)"
+  Invited speaker for a virtual panel hosted by the Center for Democracy and Technology.
+  
 - **June**: "[Internet shutdowns 'covering up' human rights violations: Trends in Africa and the Middle East](https://x.com/GlobalPartnersD/status/1665736747173527553?s=20)"
   Moderator for panel discussion co-hosted with Meta's AMET stakeholder engagement team at RightsCon in San Jose, Costa Rica.
-
-- **May:** "[Mind the Language Gap: NLP Researchers & Advocates Weigh in on Automated Content Analysis in Non-English Languages](https://cdt.org/insights/mind-the-language-gap-nlp-researchers-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages/)"
-  Invited speaker for a virtual panel hosted by the Center for Democracy and Technology. 
 
 
 ---
