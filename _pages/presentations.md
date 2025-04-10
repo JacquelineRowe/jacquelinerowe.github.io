@@ -10,12 +10,14 @@ nav_order: 2
 <!-- _pages/presentations.md -->
 
 ---
-2024
+## **2024**
 ---
 
-- **December:"Defending Voice and Expression in Africa and the Middle East"**
-Invited as a panellist by Global Partners Digital and Meta's AMET Stakeholder Engagement Team to speak on cybercrime legislation and freedom of expression  (full panel description [here](https://igf2024.sched.com/event/1sYeR/ws-181-defending-voice-expression-in-africa-and-the-middle-east) at United Nations Internet Governance Forum, Riyadh, Saudi Arabia (participated virtually). 
-- **April:"Approaching the English NLP singularity: is it too late for low-resource languages?"**
+- **December**: "[Defending Voice and Expression in Africa and the Middle East](https://igf2024.sched.com/event/1sYeR/ws-181-defending-voice-expression-in-africa-and-the-middle-east)"
+  
+Invited panellist with Global Partners Digital and Meta's AMET Stakeholder Engagement Team, speaking on cybercrime legislation and freedom of expression  at United Nations Internet Governance Forum, Riyadh, Saudi Arabia (participated virtually). 
+
+- **April**: "[Approaching the English NLP singularity: is it too late for low-resource languages?](assets/img/BCS_colloquium_poster.pdf)"
 Presented a poster on low-resource NLP at the BCS Women Ada Lovelace Colloquim, Liverpool, UK. My poster won [2nd prize](https://x.com/bcs_lovelace/status/1775922009718804675?lang=en) in the Masters' students category 🏆
 
 ---
