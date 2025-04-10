@@ -34,6 +34,7 @@ nav_order: 2
 
 - **June**: "[Internet shutdowns 'covering up' human rights violations: Trends in Africa and the Middle East](https://x.com/GlobalPartnersD/status/1665736747173527553?s=20)"
   Moderator for panel discussion co-hosted with Meta's AMET stakeholder engagement team at RightsCon in San Jose, Costa Rica.
+
 - **May:** "[Mind the Language Gap: NLP Researchers & Advocates Weigh in on Automated Content Analysis in Non-English Languages](https://cdt.org/insights/mind-the-language-gap-nlp-researchers-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages/)"
   Invited speaker for a virtual panel hosted by the Center for Democracy and Technology. 
 
