@@ -11,8 +11,12 @@ nav_order: 2
 
 ## **2025**
 ---
-- **January**: [Institute for Language, Cognition and Communication Lightning Talks](assets/img/mybackground.pdf)"
+- **January**: [Institute for Language, Cognition and Communication Lightning Talks](assets/img/mybackground.pdf)  
   Brief presentation on research background and interests to Edinburgh's ILCC community
+
+- **February**: [Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection](assets/img/Texne pres-1.pdf)  
+  Pedagogy talk at [MIT TexneCon 2025](https://philevents.org/event/show/126054) together with Amanda Horzyk
+
   
 ---
 ## **2024**
