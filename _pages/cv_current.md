@@ -3,7 +3,7 @@ layout: default
 title: CV
 nav: true
 permalink: /cv_current/
-nav_order: 2
+nav_order: 4
 ---
 
 Curriculum Vitae
