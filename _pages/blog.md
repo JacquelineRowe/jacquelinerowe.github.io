@@ -4,20 +4,10 @@ permalink: /commentary/
 title: commentary
 nav: true
 nav_order: 3
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 10
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
----
 
 
-<!-- _pages/presentations.md -->
+
+<!-- _pages/blog.md -->
 
 ---
 ## **2024**
