@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv_current/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -37,29 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/commentary/index.html";
           },
-        },{id: "post-panel-discussion-defending-voice-and-expression-in-africa-and-the-middle-east",
-      
-        title: "Panel Discussion: Defending Voice and Expression in Africa and the Middle East",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2024/IGF-24/";
-        
-      },
-    },{id: "post-poster-approaching-the-english-nlp-singularity-is-it-too-late-for-low-resource-languages",
-      
-        title: "Poster: Approaching the English NLP singularity: is it too late for low-resource languages?...",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2024/poster/";
-        
-      },
-    },{id: "post-what-would-a-human-rights-based-approach-to-ai-governance-look-like",
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv_current/";
+          },
+        },{id: "post-what-would-a-human-rights-based-approach-to-ai-governance-look-like",
       
         title: "What would a human rights-based approach to AI governance look like?",
       
@@ -79,39 +57,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/commentary/2023/OGR_shutdowns/";
-        
-      },
-    },{id: "post-panel-discussion-internet-shutdowns-39-covering-up-39-human-rights-violations-trends-in-africa-and-the-middle-east",
-      
-        title: "Panel Discussion: Internet shutdowns &#39;covering up&#39; human rights violations: Trends in Africa and...",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2023/rightscon/";
-        
-      },
-    },{id: "post-panel-discussion-mind-the-language-gap-nlp-researchers-amp-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages",
-      
-        title: "Panel Discussion: Mind the Language Gap: NLP Researchers &amp; Advocates Weigh in on...",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2023/CDT-event/";
-        
-      },
-    },{id: "post-panel-discussion-do-diverging-platform-regulations-risk-an-open-internet",
-      
-        title: "Panel Discussion: Do Diverging Platform Regulations Risk an Open Internet?",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/commentary/2022/IGF-22/";
         
       },
     },{id: "post-the-eu-digital-markets-act-is-interoperability-the-way-forward",
@@ -191,15 +136,7 @@ ninja.data = [{
           window.location.href = "/commentary/2020/GB-languages/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-on-machine-translation-for-guinea-bissau-creole-has-been-accepted-to-the-eighth-workshop-on-technologies-for-machine-translation-of-low-resource-languages-loresmt-2025-https-sites-google-com-view-loresmt-to-be-held-at-naacl-in-new-mexico-on-saturday-3rd-may-read-it-on-arxiv-https-arxiv-org-abs-2504-02674",
+    },{id: "news-our-paper-on-machine-translation-for-guinea-bissau-creole-has-been-accepted-to-the-eighth-workshop-on-technologies-for-machine-translation-of-low-resource-languages-loresmt-2025-https-sites-google-com-view-loresmt-to-be-held-at-naacl-in-new-mexico-on-saturday-3rd-may-read-it-on-arxiv-https-arxiv-org-abs-2504-02674",
           title: 'Our paper on Machine Translation for Guinea-Bissau Creole has been accepted to The...',
           description: "",
           section: "News",},{id: "projects-project-1",
