@@ -11,10 +11,10 @@ nav_order: 2
 
 ## **2025**
 ---
-- **January**: [Institute for Language, Cognition and Communication Lightning Talks](/assets/img/mybackground.pdf)  
+- **January**: [Institute for Language, Cognition and Communication Lightning Talks](https://jacquelinerowe.github.io/assets/img/mybackground.pdf)  
   Brief presentation on research background and interests to Edinburgh's ILCC community
 
-- **February**: "[Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection]"(..assets/img/texne_pres-1.pdf)  
+- **February**: "[Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection]"(https://jacquelinerowe.github.io/assets/img/texne_pres-1.pdf)
   Pedagogy talk at [MIT TexneCon 2025](https://philevents.org/event/show/126054) together with Amanda Horzyk
 
   
@@ -25,7 +25,7 @@ nav_order: 2
 - **December**: "[Defending Voice and Expression in Africa and the Middle East](https://igf2024.sched.com/event/1sYeR/ws-181-defending-voice-expression-in-africa-and-the-middle-east)"  
   Invited panellist with Global Partners Digital and Meta's AMET Stakeholder Engagement Team, speaking on cybercrime legislation and freedom of expression  at United Nations Internet Governance Forum, Riyadh, Saudi Arabia (participated virtually). 
 
-- **April**: "[Approaching the English NLP singularity: is it too late for low-resource languages?](assets/img/BCS_colloquium_poster.pdf)"  
+- **April**: "[Approaching the English NLP singularity: is it too late for low-resource languages?](https://jacquelinerowe.github.io/assets/img/BCS_colloquium_poster.pdf)"  
   Poster presentation at the BCS Women Ada Lovelace Colloquim, Liverpool, UK (won [2nd prize](https://x.com/bcs_lovelace/status/1775922009718804675?lang=en) in the Masters' students category 🏆)
 
 ---
