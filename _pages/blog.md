@@ -16,134 +16,54 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<div class="post">
 
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
+<!-- _pages/presentations.md -->
 
-{% if blog_name_size > 0 or blog_description_size > 0 %}
+---
+## **2024**
+---
+- **April**: "[The 2024 BCS Women Ada Lovelace Colloquium](https://www.sheffield.ac.uk/cs/postgraduate/student-profiles/jacquie)"
+  Blogpost published by the University of Sheffield
 
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
-  {% endif %}
+---
+## **2023**
+---
+- **August**: "[Weaponizing internet shutdowns to evade accountability for rights violations](https://www.openglobalrights.org/weaponizing-internet-shutdowns-evade-accountability-rights-violations/)"
+  Blogpost co-authored with Saba Mah'derom, published by Open Global Rights.
 
-{% assign featured_posts = site.posts | where: "featured", "true" %}
-{% if featured_posts.size > 0 %}
-<br>
+- **September**: "[What would a human rights-based approach to AI governance look like?](https://www.gp-digital.org/what-would-a-human-rights-based-approach-to-ai-governance-look-like/)
+Blogpost co-authored with Maria Pas Canales and Ian Barber, published by Global Partners Digital.
 
-<div class="container featured-posts">
-{% assign is_even = featured_posts.size | modulo: 2 %}
-<div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
-{% for post in featured_posts %}
-<div class="col mb-4">
-<a href="{{ post.url | relative_url }}">
-<div class="card hoverable">
-<div class="row g-0">
-<div class="col-md-12">
-<div class="card-body">
-<div class="float-right">
-<i class="fa-solid fa-thumbtack fa-xs"></i>
-</div>
-<h3 class="card-title text-lowercase">{{ post.title }}</h3>
-<p class="card-text">{{ post.description }}</p>
+---
+## **2022**
+---
+- **March**: "[Marginalised languages and the content moderation challenge](https://www.gp-digital.org/marginalised-languages-and-the-content-moderation-challenge/)"
+  Blogpost published by Global Partners Digital.
 
-                    {% if post.external_source == blank %}
-                      {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
-                    {% else %}
-                      {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-                    {% endif %}
-                    {% assign year = post.date | date: "%Y" %}
+- **March**: "[A language of no importance: the consequences of neglecting marginalized languages in the digital world](https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/)"
+Blogpost published by Open Global Rights.
 
-                    <p class="post-meta">
-                      {{ read_time }} min read &nbsp; &middot; &nbsp;
-                      <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
-                        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-      {% endfor %}
-      </div>
-    </div>
-    <hr>
-
-{% endif %}
-
-  <ul class="post-list">
-
-    {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
-    {% else %}
-      {% assign postlist = site.posts %}
-    {% endif %}
-
-    {% for post in postlist %}
-
-    {% if post.external_source == blank %}
-      {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
-    {% else %}
-      {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-    {% endif %}
-    {% assign year = post.date | date: "%Y" %}
-    {% assign tags = post.tags | join: "" %}
-    {% assign categories = post.categories | join: "" %}
-
-    <li>
-
-{% if post.thumbnail %}
-
-<div class="row">
-          <div class="col-sm-9">
-{% endif %}
-    {% if post.categories == 'talk' %}
-      <h3 style="color: #800080 ;"> 
-          <a class="post-title" href="{{ post.link }}" target="_blank">{{ post.title }}</a>
-          <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-              <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
-            </svg>
-      </h3>
-    {% else %}
-      <h3>
-        <a class="post-title" href="{{ post.link }}" target="_blank">{{ post.title }}</a>
-          <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg>
-      </h3>
-{% endif %}
+- **August**: "[How will the Digital Markets Act affect human rights? Four likely impacts](https://www.gp-digital.org/how-will-the-digital-markets-act-affect-human-rights-four-likely-impacts/)"
+  Part I of two-part blogpost published by Global Partners Digital.
   
-      <p>{{ post.description }}</p>
-      <p class="post-meta">
-        {{ post.authors }} &nbsp; &middot; &nbsp;
-        {{ post.publisher }} &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %d, %Y' }}
-        {% if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
-        {% endif %}
-      </p>
+- **August**: "[The EU Digital Markets Act: is interoperability the way forward?](https://www.gp-digital.org/the-eu-digital-markets-act-is-interoperability-the-way-forward/)"
+  Part II of two-part blogpost published by Global Partners Digital
 
-{% if post.thumbnail %}
+---
+## **2021**
+---
+- **June**: "[Why the next generation is key to protecting human rights](https://www.chathamhouse.org/2021/06/why-next-generation-key-protecting-human-rights)"
+Article co-authored with Anar Batar and Martina Carlucci, published by Chatham House.
 
-</div>
 
-  <div class="col-sm-3">
-    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
-  </div>
-</div>
-{% endif %}
-    </li>
+---
+## **2020**
+---
 
-    {% endfor %}
+- **June**: "[Language Practices and Policies in a Post-Colonial Setting: The Case of Guinea-Bissau](https://www.languagesciences.cam.ac.uk/news/language-practices-and-policies-post-colonial-setting-case-guinea-bissau)"
+  Blogpost and documentary about my undergraduate dissertation project published by Cambridge Language Sciences
 
-  </ul>
+- **November**: "[Filtering out malicious lies: how digital platforms can tackle disinformation](https://www.chathamhouse.org/publications/twt/filtering-out-malicious-lies)"
+  Magazine article published by The World Today
 
-{% if page.pagination.enabled %}
-{% include pagination.liquid %}
-{% endif %}
-
-</div>
 
