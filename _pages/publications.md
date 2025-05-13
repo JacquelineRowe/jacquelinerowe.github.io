@@ -12,7 +12,7 @@ nav_order: 1
 ---
 ## **2025**
 ---
-- **April**: Jacqueline Rowe, Edward Gow-Smith and Mark Hepple (2025). [Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole](https://arxiv.org/abs/2504.02674). _arxiv pre-print_. To be published in LoResMT Workshop @ NAACL 2025. 
+- **May**: Jacqueline Rowe, Edward Gow-Smith and Mark Hepple (2025). [Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole](https://aclanthology.org/2025.loresmt-1.17/). In Proceedings of the Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025), 183-200. _Association for Computational Linguistics_
 
 ---
 ## **2024**
