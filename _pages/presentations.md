@@ -17,12 +17,15 @@ nav_order: 2
 - **February**: "[Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection](https://jacquelinerowe.github.io/assets/img/texne_pres-1.pdf)"
   Pedagogy talk at [MIT TexneCon 2025](https://philevents.org/event/show/126054) together with Amanda Horzyk
 
-- **April**: "Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole"
-  Pre-recorded video for paper at The Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025)
-
 - **April**: AI for all Public Engagement Event  
-  Poster and interactive exhibit at [AI for all: Designing Responsibly](https://www.edinburghscience.co.uk/event/ai-for-all-designing-responsibly/), part of the Edinburgh Science Festival programme. [View Photo Gallery](/science-festival-2025/)   
-  
+  Poster and interactive exhibits at [AI for all: Designing Responsibly](https://www.edinburghscience.co.uk/event/ai-for-all-designing-responsibly/), part of the Edinburgh Science Festival programme. [View resources and photos](/science-festival-2025/)
+
+- **May**: "[Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole]"(https://aclanthology.org/2025.loresmt-1.17/)
+Oral Presentation at The Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages ([LoResMT 2025](https://sites.google.com/view/loresmt/))
+
+- **May**: "[Investigating gendered stereotypes in multilingual Large Language Models](https://jacquelinerowe.github.io/assets/img/gender.ed_poster.jpg)"
+  Poster presentation at the Gender.Ed Research Showcase
+
 ---
 ## **2024**
 ---
