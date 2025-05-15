@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 'AI for All: Science Festival 2025 Photo Gallery'
+title: 'AI for All: Designing Responsibly (Public Engagement at Edinburgh Science Festival 2025)'
 permalink: /science-festival-2025/
 ---
 
-# Resources used for AI for All: Designing Responsibly 
+# Digital Resources 
 
 {% assign images = site.static_files 
   | where_exp: "file", "file.path contains 'assets/img/science-fest-2/resources' and file.extname == '.jpg'" 
@@ -19,7 +19,7 @@ permalink: /science-festival-2025/
   {% endfor %}
 </div>
 
-# Interactive Exhibits – Photo Gallery
+# Photo Gallery
 
 {% assign images = site.static_files 
   | where_exp: "file", "file.path contains 'assets/img/science-fest-1/' and file.extname == '.jpg'" 
