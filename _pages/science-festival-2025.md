@@ -7,7 +7,7 @@ permalink: /science-festival-2025/
 # Resources used for AI for All: Designing Responsibly 
 
 {% assign images = site.static_files 
-  | where_exp: "file", "file.path contains 'assets/img/science-fest/resources' and file.extname == '.jpg'" 
+  | where_exp: "file", "file.path contains 'assets/img/science-fest-2/resources' and file.extname == '.jpg'" 
   | sort: "path" 
   | uniq 
 %}
@@ -22,7 +22,7 @@ permalink: /science-festival-2025/
 # Interactive Exhibits – Photo Gallery
 
 {% assign images = site.static_files 
-  | where_exp: "file", "file.path contains 'assets/img/science-fest/' and file.extname == '.jpg'" 
+  | where_exp: "file", "file.path contains 'assets/img/science-fest-1/' and file.extname == '.jpg'" 
   | sort: "path" 
   | uniq 
 %}
