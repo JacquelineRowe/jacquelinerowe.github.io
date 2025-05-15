@@ -6,7 +6,12 @@ permalink: /science-festival-2025/
 
 # AI for All: Designing Responsibly – Photo Gallery
 
-{% assign images = site.static_files | where_exp: "file", "file.path contains 'assets/img/science-fest'" %}
+{% assign images = site.static_files 
+  | where_exp: "file", "file.path contains 'assets/img/science-fest/' and file.extname == '.jpg'" 
+  | sort: "path" 
+  | uniq 
+%}
+
 <div class="gallery">
   {% for image in images %}
     <a href="{{ site.baseurl }}{{ image.path }}">
