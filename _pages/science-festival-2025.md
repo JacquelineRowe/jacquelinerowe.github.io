@@ -1,3 +1,4 @@
+---
 layout: page
 title: AI for All: Science Festival 2025 Photo Gallery
 permalink: /science-festival-2025/
