@@ -21,7 +21,7 @@ nav_order: 2
   Pre-recorded video for paper at The Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025)
 
 - **April**: AI for all Public Engagement Event  
-  Poster and interactive exhibit at [AI for all: Designing Responsibly](https://www.edinburghscience.co.uk/event/ai-for-all-designing-responsibly/), part of the Edinburgh Science Festival programme   
+  Poster and interactive exhibit at [AI for all: Designing Responsibly](https://www.edinburghscience.co.uk/event/ai-for-all-designing-responsibly/), part of the Edinburgh Science Festival programme. [View Photo Gallery](/science-fest-gallery/)   
   
 ---
 ## **2024**
