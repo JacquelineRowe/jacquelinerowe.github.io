@@ -20,8 +20,10 @@ nav_order: 2
 - **April**: [AI for all Public Engagement Event](/science-festival-2025/)  
   Poster and interactive exhibits at [AI for all: Designing Responsibly](https://www.edinburghscience.co.uk/event/ai-for-all-designing-responsibly/), part of the Edinburgh Science Festival programme.
 
-- **May**: "[Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole](https://jacquelinerowe.github.io/assets/img/LoResMT2025.pdf)"
+- **May**: "Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole"
 Oral Presentation at The Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages ([LoResMT 2025](https://sites.google.com/view/loresmt/))
+[Pre-recorded video](https://underline.io/events/484/sessions/19978/lecture/118123-limitations-of-religious-data-and-the-importance-of-the-target-domain-towards-machine-translation-for-guinea-bissau-creole?tab=Video) - [Slides](https://jacquelinerowe.github.io/assets/img/LoResMT2025.pdf) - [Live talk (02:38:05)](https://us06web.zoom.us/rec/play/6ulyCoNlkYTUhya1A0K1jmEbY0Ev4BIcg06ao38vulVmESCFYJPzD63FwWnvEdxO4zQxFVgQlatItHUG.ApZg_SxYKhE3alEN?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FP7PEgaz70uLrLK1DvG6PF6ToKFIxbpyBq_E_eKO0ycaA93s4hSqFe52Vt6LoKUHl.phEg7o7yZjaAmW_v)
+
 
 - **May**: "[Investigating gendered stereotypes in multilingual Large Language Models](https://jacquelinerowe.github.io/assets/img/gender.ed_poster.jpg)"
   Poster presentation at the Gender.Ed Research Showcase
