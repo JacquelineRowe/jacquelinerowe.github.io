@@ -25,7 +25,13 @@ nav_order: 2
 
 
 - **May**: "[Investigating gendered stereotypes in multilingual Large Language Models](https://jacquelinerowe.github.io/assets/img/gender.ed_poster.jpg)"
-  Poster presentation at the Gender.Ed Research Showcase
+  Poster presentation at the [Gender.Ed Research Showcase](https://www.sps.ed.ac.uk/news-events/event/gendereds-annual-research-showcase-2025)
+
+- **June**: "[EuroGEST Investigating gendered stereotypes in multilingual Large Language Models](https://jacquelinerowe.github.io/assets/img/eurogest_poster.jpg)"
+  Poster presentations at:
+  - UKRI AI Centres for Doctoral Training in Natural Language Processing [Partners Summit](https://www.eventbrite.co.uk/e/ukri-centres-for-doctoral-training-in-nlp-partners-summit-2025-tickets-1233831596519)
+  - University of Edinburgh School of Informatics [Research Day](https://www.eventbrite.co.uk/e/informatics-research-day-2025-tickets-1368348279539)
+  - University of Sheffield Speech and Language Technologies [Annual CDT Conference](https://slt-cdt.sheffield.ac.uk/annual-conference)
 
 ---
 ## **2024**
