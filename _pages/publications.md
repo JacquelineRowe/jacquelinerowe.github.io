@@ -14,6 +14,8 @@ nav_order: 1
 ---
 - **May**: Jacqueline Rowe, Edward Gow-Smith and Mark Hepple (2025). [Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole](https://aclanthology.org/2025.loresmt-1.17/). In Proceedings of the Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025), 183-200. _Association for Computational Linguistics_
 
+- **June**: Jacqueline Rowe, Mateusz Klimaszewski, Liane Guillou, Shannon Vallor, Alexandra Birch (2025). [EuroGEST: Investigating gender stereotypes in multilingual language models](https://arxiv.org/abs/2506.03867)._ Arxiv pre-print_ 
+
 ---
 ## **2024**
 ---
