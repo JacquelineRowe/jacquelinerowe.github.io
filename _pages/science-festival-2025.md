@@ -4,7 +4,7 @@ title: 'AI for All: Designing Responsibly (Public Engagement at Edinburgh Scienc
 permalink: /science-festival-2025/
 ---
 
-# Digital Resources 
+## Photo Gallery
 
 {% assign images = site.static_files 
   | where_exp: "file", "file.path contains 'assets/img/science-fest-2/' and file.extname == '.jpg'" 
@@ -19,7 +19,9 @@ permalink: /science-festival-2025/
   {% endfor %}
 </div>
 
-# Photo Gallery
+<br>
+
+## Digital Resources 
 
 {% assign images = site.static_files 
   | where_exp: "file", "file.path contains 'assets/img/science-fest-1/' and file.extname == '.jpg'" 
