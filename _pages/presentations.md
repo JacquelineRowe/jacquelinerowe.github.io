@@ -28,7 +28,7 @@ nav_order: 2
   Presented a [poster](https://jacquelinerowe.github.io/assets/img/eurogest_poster.jpg) on my work on multilingual gender bias detection in LLMs at the following events:  
   - UKRI AI Centres for Doctoral Training in Natural Language Processing [Partners Summit](https://www.eventbrite.co.uk/e/ukri-centres-for-doctoral-training-in-nlp-partners-summit-2025-tickets-1233831596519)  
   - University of Edinburgh School of Informatics [Research Day](https://www.eventbrite.co.uk/e/informatics-research-day-2025-tickets-1368348279539)  
-  - University of Sheffield Speech and Language Technologies [Annual CDT Conference](https://slt-cdt.sheffield.ac.uk/annual-conference)
+  - University of Sheffield Speech and Language Technologies [Annual CDT Conference](https://slt-cdt.sheffield.ac.uk/annual-conference)  
 
 - **June**: **_Research Talk: EuroGEST Investigating gendered stereotypes in multilingual Large Language Models_**  
   Gave a research talk at the University of Edinburgh School of Informatics [StatMT weekly group meeting](https://www.wiki.ed.ac.uk/spaces/statmt/pages/391735039/Weekly+Group+Meeting) on my work on multilingual gender bias detection in LLMs.
