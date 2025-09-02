@@ -145,7 +145,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-pre-print-eurogest-investigating-gender-stereotypes-in-multilingual-language-models",
           title: 'New pre-print! 📊 EuroGEST: Investigating gender stereotypes in multilingual language models.',
           description: "",
-          section: "News",},{id: "news-our-paper-on-gendered-stereotypes-in-multilingual-llms-has-been-accepted-to-the-emnlp-2025-main-conference-i-ll-also-be-presenting-a-systems-paper-on-machine-translation-for-creole-languages-as-part-of-the-inaugural-shared-task-for-creole-machine-translation",
+          section: "News",},{id: "news-our-paper-on-gendered-stereotypes-in-multilingual-llms-has-been-accepted-to-the-emnlp-2025-main-conference-i-ll-also-be-presenting-a-systems-paper-on-machine-translation-for-creole-languages-as-part-of-the-inaugural-shared-task-for-creole-machine-translation-stay-tuned-and-see-you-in-china",
           title: 'Our paper on gendered stereotypes in multilingual LLMs 👇 has been accepted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
