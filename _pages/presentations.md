@@ -9,7 +9,11 @@ nav_order: 2
 
 <!-- _pages/presentations.md -->
 
-# **January**: **_Oral presentation: My Research Background_**  
+---
+## **2025**
+---
+
+- **January**: **_Oral presentation: My Research Background_**  
   Brief presentation on my research background and interests as part of the Edinburgh Institute for Language, Cognition and Communication Lightning Talks. Slides available [here](https://jacquelinerowe.github.io/assets/img/mybackground.pdf).
 
 - **February**: **_Oral presentation: Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection_**  
