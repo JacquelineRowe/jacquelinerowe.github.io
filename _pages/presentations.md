@@ -41,10 +41,10 @@ nav_order: 2
 - **August**: **_Poster Presentation: EdinHelsOW WMT 2025 CreoleMT System Description: Improving Lusophone Creole Translation through Data Augmentation, Model Merging and LLM Post-editing_**  
   Presented a poster on our submission to the WMT 2025 Creole Machine Translation Shared Task at the 2025 Machine Translation Marathon in Helsinki. Poster available [here](https://jacquelinerowe.github.io/assets/img/creoles_mt_poster.pdf); photo available [here](https://jacquelinerowe.github.io/assets/img/creoles_MT_photo.jpg).
 
-- **September**: **_Public Engagement: Edinburgh Futures Institute Doors Open Day_** 
+- **September**: **_Public Engagement: Edinburgh Futures Institute Doors Open Day_**  
   Presented interactive exhibits at [EFI Doors Open Day](https://efi.ed.ac.uk/event/doors-open-day-2025/), including a pilot study on how members of the public rate LLMs for gender biased outputs.
 
-- **October**: **_Guest Lecture: Data Harms_** 
+- **October**: **_Guest Lecture: Data Harms_**  
   Delivered a Guest Lecture for the School of Informatics Professional Issues 3rd-year undergraduate course on Data Harms. Slides available on [OpenCourse](https://opencourse.inf.ed.ac.uk/pi/course-materials/week-4).
 
 
