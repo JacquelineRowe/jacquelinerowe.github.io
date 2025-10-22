@@ -33,12 +33,19 @@ nav_order: 2
   - UKRI AI Centres for Doctoral Training in Natural Language Processing [Partners Summit](https://www.eventbrite.co.uk/e/ukri-centres-for-doctoral-training-in-nlp-partners-summit-2025-tickets-1233831596519)  
   - University of Edinburgh School of Informatics [Research Day](https://www.eventbrite.co.uk/e/informatics-research-day-2025-tickets-1368348279539)  
   - University of Sheffield Speech and Language Technologies [Annual CDT Conference](https://slt-cdt.sheffield.ac.uk/annual-conference)  
+    
 
 - **June**: **_Research Talk: EuroGEST Investigating gendered stereotypes in multilingual Large Language Models_**  
   Gave a research talk at the University of Edinburgh School of Informatics [StatMT weekly group meeting](https://www.wiki.ed.ac.uk/spaces/statmt/pages/391735039/Weekly+Group+Meeting) on my work on multilingual gender bias detection in LLMs.
 
 - **August**: **_Poster Presentation: EdinHelsOW WMT 2025 CreoleMT System Description: Improving Lusophone Creole Translation through Data Augmentation, Model Merging and LLM Post-editing_**  
   Presented a poster on our submission to the WMT 2025 Creole Machine Translation Shared Task at the 2025 Machine Translation Marathon in Helsinki. Poster available [here](https://jacquelinerowe.github.io/assets/img/creoles_mt_poster.pdf); photo available [here](https://jacquelinerowe.github.io/assets/img/creoles_MT_photo.jpg).
+
+- **September**: **_Public Engagement: Edinburgh Futures Institute Doors Open Day_**  
+  Presented interactive exhibits at [EFI Doors Open Day](https://efi.ed.ac.uk/event/doors-open-day-2025/), including a pilot study on how members of the public rate LLMs for gender biased outputs.
+
+- **October**: **_Guest Lecture: Data Harms_**  
+  Delivered a Guest Lecture for the School of Informatics Professional Issues 3rd-year undergraduate course on Data Harms. Slides available on [OpenCourse](https://opencourse.inf.ed.ac.uk/pi/course-materials/week-4).
 
 
 ---
