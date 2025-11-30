@@ -14,7 +14,7 @@ nav_order: 2
 ---
 
 - **November**: **_Poster Presentations @ EMNLP 2025, Suzhou_**  
-  - Presented a [poster](https://jacquelinerowe.github.io/assets/img/EuroGEST_EMNLP_poster.pdf) in the Ethics, Bias and Fairness track at EMNLP, and a [poster](https://jacquelinerowe.github.io/assets/img/Creoles_translation_EMNLP_poster.pdf) in the Workshop on Machine Translation Shared Task on Machine Translation for Creole Languages. 
+  Presented a [poster](https://jacquelinerowe.github.io/assets/img/EuroGEST_EMNLP_poster.pdf) in the Ethics, Bias and Fairness track at EMNLP, and a [poster](https://jacquelinerowe.github.io/assets/img/Creoles_translation_EMNLP_poster.pdf) in the Workshop on Machine Translation Shared Task on Machine Translation for Creole Languages. 
 
 - **October**: **_Guest Lecture @ School of Informatics, Edinburgh_**  
   Delivered a Guest Lecture on Data Harms, for the School of Informatics 3rd-year undergraduate course on Professional Issues. Slides available on [OpenCourse](https://opencourse.inf.ed.ac.uk/pi/course-materials/week-4).
