@@ -31,7 +31,7 @@ nav_order: 2
 - **June**: **_Poster Presentations @ University of Sheffield Speech and Language Technologies Annual CDT Conference, 2025_**
   Presented a [poster](https://jacquelinerowe.github.io/assets/img/eurogest_poster.jpg) at the University of Sheffield Speech and Language Technologies [Annual CDT Conference](https://slt-cdt.sheffield.ac.uk/annual-conference)  
 
-- **May-June**: **_Poster Presentations @ Various University of Edinburgh events_**
+- **May-June**: **_Poster Presentations @ Various University of Edinburgh events_**  
   Presented a [poster](https://jacquelinerowe.github.io/assets/img/eurogest_poster.jpg) at the UKRI AI Centres for Doctoral Training in Natural Language Processing [Partners Summit](https://www.eventbrite.co.uk/e/ukri-centres-for-doctoral-training-in-nlp-partners-summit-2025-tickets-1233831596519), The School of Informatics [Research Day](https://www.eventbrite.co.uk/e/informatics-research-day-2025-tickets-1368348279539) and the [Gender.Ed Research Showcase](https://www.sps.ed.ac.uk/news-events/event/gendereds-annual-research-showcase-2025). 
 
 - **May**: **_Oral Presentation @ LoResMT Workshop at NAACL, New Mexico_**  
@@ -40,7 +40,7 @@ nav_order: 2
 - **April**: **_Public Engagement @ AI for all Event, Edinburgh_**  
   Presented a poster and interactive exhibits at [AI for all: Designing Responsibly](https://www.edinburghscience.co.uk/event/ai-for-all-designing-responsibly/), part of the Edinburgh Science Festival programme. Photos and resources available [here](/science-festival-2025/). 
 
-- **February**: **_Oral presentation @ TexneCON 2025, MIT_**
+- **February**: **_Oral presentation @ TexneCON 2025, MIT_**  
   Pedagogy talk on our WiP, 'Designing Responsible Natural Language Processing: translating responsibility in AI through interdisciplinary reflection' at [MIT TexneCon 2025](https://philevents.org/event/show/126054). Slides available [here](https://jacquelinerowe.github.io/assets/img/texne_pres-1.pdf).
 
   
@@ -48,20 +48,20 @@ nav_order: 2
 ## **2024**
 ---
 
-- **April**: **_Poster Presentation @ BCS Women Ada Lovelace Colloquim, Liverpool_**
+- **April**: **_Poster Presentation @ BCS Women Ada Lovelace Colloquim, Liverpool_**  
   Presented a poster on [Approaching the English NLP singularity: is it too late for low-resource languages?](https://jacquelinerowe.github.io/assets/img/BCS_colloquium_poster.pdf) at the BCS Women Ada Lovelace Colloquim, Liverpool, UK. Won [2nd prize](https://x.com/bcs_lovelace/status/1775922009718804675?lang=en) in the Masters' students category 🏆.
 
-- **December**: **_Panel Discussion @ UN Internet Governance Forum 2024_**
+- **December**: **_Panel Discussion @ UN Internet Governance Forum 2024_**  
   Invited speaker on a [panel event](https://igf2024.sched.com/event/1sYeR/ws-181-defending-voice-expression-in-africa-and-the-middle-east) on 'Defending Voice and Expression in Africa and the Middle East' with Global Partners Digital and Meta's AMET Stakeholder Engagement Team, speaking on cybercrime legislation and freedom of expression  at United Nations Internet Governance Forum, Riyadh, Saudi Arabia (participated virtually). 
 
 ---
 ## **2023**
 ---
 
-- **May:** **_Virtual Panel Discussion @ Center for Democracy and Technology, Washington D.C._**
+- **May:** **_Virtual Panel Discussion @ Center for Democracy and Technology, Washington D.C._**  
   Invited speaker for a virtual panel titled '[Mind the Language Gap: NLP Researchers & Advocates Weigh in on Automated Content Analysis in Non-English Languages](https://cdt.org/insights/mind-the-language-gap-nlp-researchers-advocates-weigh-in-on-automated-content-analysis-in-non-english-languages/)' hosted by the Center for Democracy and Technology.
   
-- **June**: **_Panel Discussion @ RightsCon 2023, San Jose_**
+- **June**: **_Panel Discussion @ RightsCon 2023, San Jose_**  
   Moderated a panel discussion on '[Internet shutdowns "covering up" human rights violations: Trends in Africa and the Middle East](https://x.com/GlobalPartnersD/status/1665736747173527553?s=20)' co-hosted with Meta's AMET stakeholder engagement team at RightsCon in San Jose, Costa Rica.
 
 
@@ -69,5 +69,5 @@ nav_order: 2
 ## **2022**
 ---
 
-- **December**: **_Panel Discussion @ UN Internet Governance Forum 2022, Addis Ababa_**
+- **December**: **_Panel Discussion @ UN Internet Governance Forum 2022, Addis Ababa_**  
   Invited speaker for a panel discussion on '[Do Diverging Platform Regulations Risk an Open Internet?](https://youtu.be/CRY9_P_qkdU?feature=shared&t=1432)', convened by Chatham House's Digital Society Initiative at the United Nations Internet Governance Forum in Addis Ababa. 
