@@ -13,9 +13,9 @@ nav_order: 1
 ## **2025**
 ---
 
-- Jacqueline Rowe, Mateusz Klimaszewski, Liane Guillou, Shannon Vallor, Alexandra Birch (2025). [EuroGEST: Investigating gender stereotypes in multilingual language models](https://arxiv.org/abs/2506.03867). _Arxiv pre-print, to be published in Proceedings of EMNLP 2025_
+- Jacqueline Rowe, Mateusz Klimaszewski, Liane Guillou, Shannon Vallor, Alexandra Birch (2025). [EuroGEST: Investigating gender stereotypes in multilingual language models.](https://aclanthology.org/2025.emnlp-main.1632/). In _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing_, pages 32062–32084, Suzhou, China. Association for Computational Linguistics.
 
-- Jacqueline Rowe, Ona de Gibert, Mateusz Klimaszewski, Coleman Haley, Alexandra Birch, and Yves Scherrer (2025). [EdinHelsOW WMT 2025 CreoleMT System Description: Improving Lusophone Creole Translation through Data Augmentation, Model Merging and LLM Post-editing.](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.91.pdf). In Proceedings of the Tenth Conference on Machine Translation, 1166–1182. _Association for Computational Linguistics_
+- Jacqueline Rowe, Ona de Gibert, Mateusz Klimaszewski, Coleman Haley, Alexandra Birch, and Yves Scherrer (2025). [EdinHelsOW WMT 2025 CreoleMT System Description: Improving Lusophone Creole Translation through Data Augmentation, Model Merging and LLM Post-editing.](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.91.pdf). In _Proceedings of the Tenth Conference on Machine Translation_, 1166–1182. Association for Computational Linguistics
 
 - Jacqueline Rowe, Edward Gow-Smith and Mark Hepple (2025). [Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole](https://aclanthology.org/2025.loresmt-1.17/). In Proceedings of the Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025), 183-200. _Association for Computational Linguistics_
 
