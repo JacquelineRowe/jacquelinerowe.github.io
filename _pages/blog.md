@@ -11,6 +11,12 @@ nav_order: 3
 <!-- _pages/blog.md -->
 
 ---
+## **2025**
+---
+- **October**: "[Gendered by Design: Stereotypes in Generative AI](https://www.gender.ed.ac.uk/blog/2025/gendered-design-stereotypes-generative-ai#_ftn1)"  
+  Blogpost published by Gender.Ed
+
+---
 ## **2024**
 ---
 - **April**: "[The 2024 BCS Women Ada Lovelace Colloquium](https://www.sheffield.ac.uk/cs/postgraduate/student-profiles/jacquie)"  
