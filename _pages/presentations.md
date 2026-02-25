@@ -8,8 +8,16 @@ nav_order: 2
 ---
 
 <!-- _pages/presentations.md -->
-
 ---
+## **2026**
+---
+- **February**: **_Research Talk @ Fondazione Bruno Kessler's Machine Translation Unit_**   
+  Invited as a speaker for [FBK MT Unit's](https://mt.fbk.eu/) online seminar series to present work on multilingual gender bias evaluation.
+  
+- **February**: **_Invited Discussant for EFI Workshop on AI, Decoloniality and the Ethics of Translating Low Resource Languages_**  
+  Invited discussant at an EFI-hosted [workshop](https://www.eventbrite.co.uk/e/ai-decoloniality-and-the-ethics-of-translating-low-resource-languages-tickets-1982437928209) on AI, Decoloniality and the Ethics of Translating Low Resource Languages, organised by Dr. Deepshikha Behera. 
+---
+
 ## **2025**
 ---
 
