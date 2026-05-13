@@ -11,6 +11,9 @@ nav_order: 2
 ---
 ## **2026**
 ---
+- **March**: **_Student Presenter @ Turing Connections Conference, Edinburgh_**  
+  Gave a talk titled ["Do intrinsic bias metrics correlate with downstream performance? Initial insights with machine translation"](https://jacquelinerowe.github.io/assets/pdf/Turing Talk 27 Mar.pdf) at the [2026 Turing Connections x Edinburgh Conference](https://turing-connections-edinburgh.my.canva.site/). 
+
 - **February**: **_Research Talk @ Fondazione Bruno Kessler's Machine Translation Unit_**   
   Invited as a speaker for [FBK MT Unit's](https://mt.fbk.eu/) online seminar series to present work on multilingual gender bias evaluation.
   
