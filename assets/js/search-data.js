@@ -154,7 +154,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-today-as-a-student-researcher-in-google-deepmind-s-ethics-and-foresight-team-focusing-on-privacy-and-personalisation-in-agent-llms-i-ll-be-here-for-six-months-and-returning-to-my-phd-in-edinburgh-in-october",
           title: 'I started today as a Student Researcher in Google DeepMind’s Ethics and Foresight...',
           description: "",
-          section: "News",},{id: "news-this-week-i-m-back-in-edinburgh-to-continue-my-phd-after-six-months-as-a-student-researcher-at-google-deepmind-during-my-time-there-ollaborated-across-teams-to-tackle-privacy-personalisation-and-memory-challenges-in-llms-and-agents-i-also-partnered-with-google-s-applied-privacy-research-team-to-build-an-automated-pipeline-for-detecting-emerging-ai-harms-at-scale-check-out-our-new-paper-on-this-work-move-fast-and-mend-things-keeping-up-with-evolving-ai-harms-using-social-media-commentary",
+          section: "News",},{id: "news-this-week-i-m-back-in-edinburgh-to-continue-my-phd-after-six-months-as-a-student-researcher-at-google-deepmind-during-my-time-there-ollaborated-across-teams-to-tackle-privacy-personalisation-and-memory-challenges-in-llms-and-agents-i-also-partnered-with-google-s-applied-privacy-research-team-to-build-an-automated-pipeline-for-detecting-emerging-ai-harms-at-scale-check-out-our-new-preprint-on-this-work-move-fast-and-mend-things-keeping-up-with-evolving-ai-harms-using-social-media-commentary",
           title: 'This week, I’m back in Edinburgh to continue my PhD after six months...',
           description: "",
           section: "News",},{id: "projects-project-1",
